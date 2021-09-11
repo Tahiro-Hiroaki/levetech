@@ -1,0 +1,12 @@
+[credential]
+	helper = !aws codecommit credential-helper $@
+	UseHttpPath = true
+[core]
+	editor = vim -c \"set fenc=utf-8\"
+[user]
+	name = Tahiro-Hiroaki
+	email = shobon1019@outlook.com
+[color]
+	diff = auto
+	status = auto
+	branch = auto
